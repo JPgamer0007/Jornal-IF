@@ -172,6 +172,11 @@ html, body {
     text-decoration: underline;
 }
 
+#Noticias h1 {
+    border-bottom: 4px solid #198754;
+    padding-bottom: 10px;
+}
+
 #qrcodes h1 {
     border-bottom: 4px solid #198754;
     padding-bottom: 10px;
